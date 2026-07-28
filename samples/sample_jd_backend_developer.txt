@@ -1,0 +1,27 @@
+Backend Developer
+
+We are looking for a skilled Backend Developer to join our growing engineering team.
+You will be responsible for designing, building, and maintaining scalable APIs and
+services that power our core product.
+
+Requirements:
+- Minimum 3 years of professional experience in backend development
+- Strong proficiency in Python, with hands-on experience in Django or Flask
+- Solid understanding of REST APIs and microservices architecture
+- Experience with relational databases such as PostgreSQL or MySQL
+- Familiarity with containerization tools like Docker and orchestration with Kubernetes
+- Experience deploying and managing services on AWS
+- Working knowledge of Git and CI/CD pipelines
+- Bachelor's degree in Computer Science, Engineering, or a related field
+
+Nice to have:
+- Experience with MongoDB or other NoSQL databases
+- Exposure to Redis for caching
+- Familiarity with Linux server environments
+
+Responsibilities:
+- Design and implement RESTful APIs used by millions of requests daily
+- Collaborate with frontend and product teams to ship new features
+- Optimize database queries and improve system performance
+- Participate in code reviews and contribute to engineering best practices
+- Troubleshoot and resolve production issues in a timely manner
